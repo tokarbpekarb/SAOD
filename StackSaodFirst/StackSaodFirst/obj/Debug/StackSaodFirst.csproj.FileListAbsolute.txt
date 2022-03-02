@@ -1,0 +1,7 @@
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\bin\Debug\StackSaodFirst.exe.config
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\bin\Debug\StackSaodFirst.exe
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\bin\Debug\StackSaodFirst.pdb
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\obj\Debug\StackSaodFirst.csproj.AssemblyReference.cache
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\obj\Debug\StackSaodFirst.csproj.CoreCompileInputs.cache
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\obj\Debug\StackSaodFirst.exe
+C:\Users\1395358\source\repos\StackSaodFirst\StackSaodFirst\obj\Debug\StackSaodFirst.pdb
